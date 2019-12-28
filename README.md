@@ -1,12 +1,12 @@
 :star: Please star this project. It helps a lot.
 
-**[Project Report]{.underline}**
+**[Project Report]**
 
 > **CSE 3200: System Development Project**
 
 **Classroom Assistant**
 
-![](.//media/image1.jpeg){width="1.8in" height="2.0368055555555555in"}
+![](.//media/image1.jpeg)
 
 > **Project Team**
 
