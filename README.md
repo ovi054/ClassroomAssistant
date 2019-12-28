@@ -27,25 +27,25 @@
 Table of Contents {#table-of-contents .TOCHeading}
 =================
 
-[INTRODUCTION 2](#introduction)
+[INTRODUCTION](#introduction)
 
-[Background 2](#background)
+[Background](#background)
 
-[Purpose 3](#purpose)
+[Purpose](#purpose)
 
-[OBJECTIVES 3](#objectives)
+[OBJECTIVES](#objectives)
 
-[Design (Flowchart) 4](#design-flowchart)
+[Design (Flowchart)](#design-flowchart)
 
-[IMPLEMENTATION 6](#implementation)
+[IMPLEMENTATION](#implementation)
 
-[Hardware Requirement 6](#hardware-requirement)
+[Hardware Requirement](#hardware-requirement)
 
-[Software Requirement 6](#software-requirement)
+[Software Requirement](#software-requirement)
 
-[Web Scraping 7](#web-scraping)
+[Web Scraping](#web-scraping)
 
-[How System Works 7](#how-system-does-work)
+[How System Works](#how-system-does-work)
 
 [Attendance System: 7](#attendance-system)
 
@@ -380,16 +380,27 @@ learning/](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv
 
 ## Author
 Avi Pal, Ashiqur Rahman
+
 avi.pal357@gmail.com
+
 Student at Department of Computer Science and Engineering
+
 Khulna University of Engineering & Technology, Khulna
+
 Bangladesh
 
+
 ** Supervised under **
+
 Mr. Al Mahmud
+
 Assistant Professor
+
 Dept. of Computer Science and Engineering
+
 Khulna University of Engineering & Technology
 
+
 ## Licensing
+
 The code in this project is licensed under GNU GPLv3 license.
