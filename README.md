@@ -375,3 +375,21 @@ learning/](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv
 \[9\] Pafy documentation
 
 <https://pythonhosted.org/Pafy/>
+
+- In case of any help you may need from me, please contact avi.pal357@gmail.com directly without any hesitation! I will be glad to help you.
+
+## Author
+Avi Pal, Ashiqur Rahman
+avi.pal357@gmail.com
+Student at Department of Computer Science and Engineering
+Khulna University of Engineering & Technology, Khulna
+Bangladesh
+
+** Supervised under **
+Mr. Al Mahmud
+Assistant Professor
+Dept. of Computer Science and Engineering
+Khulna University of Engineering & Technology
+
+## Licensing
+The code in this project is licensed under GNU GPLv3 license.
