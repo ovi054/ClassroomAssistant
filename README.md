@@ -24,7 +24,7 @@
 
 **Khulna University of Engineering & Technology**
 
-Table of Contents {#table-of-contents .TOCHeading}
+Table of Contents 
 =================
 
 [INTRODUCTION](#introduction)
@@ -47,17 +47,17 @@ Table of Contents {#table-of-contents .TOCHeading}
 
 [How System Works](#how-system-does-work)
 
-[Attendance System: 7](#attendance-system)
+[Attendance System:](#attendance-system)
 
-[Conclusion and Recommendation 14](#conclusion-and-recommendation)
+[Conclusion and Recommendation](#conclusion-and-recommendation)
 
-[Challenges 14](#challenges)
+[Challenges](#challenges)
 
-[Limitations 14](#limitations)
+[Limitations](#limitations)
 
-[Future Activities 14](#future-activities)
+[Future Activities](#future-activities)
 
-[References 15](#references)
+[References](#references)
 
 INTRODUCTION
 ============
