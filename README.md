@@ -1,3 +1,5 @@
+:star: Please star this project. It helps a lot.
+
 **[Project Report]{.underline}**
 
 > **CSE 3200: System Development Project**
