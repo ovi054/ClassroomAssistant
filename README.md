@@ -6,7 +6,8 @@
 
 **Classroom Assistant**
 
-![](.//media/image1.jpeg)
+
+
 
 > **Project Team**
 
