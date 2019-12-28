@@ -1,0 +1,9 @@
+
+Item no.: 1 --> Item name = show photo of sdlc diagram
+Evaluating...
+Starting Download...
+Image URL: https://www.tutorialspoint.com/sdlc/images/sdlc_stages.jpg
+Completed Image ====> 1.sdlc_stages.jpg
+
+Errors: 0
+
